@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+height: 80px;
+width: 100%;
+background-color: rgba(52, 54, 180, 0.952)
+
+}
+
+#face{
+    float: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 155px;
+    margin-top: 25px;
+}
+.login{
+    float: right;
+    margin-top: 10px;
+    margin-right:145px ;
+    color: white
+}
+.login table tr td{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.login button{
+    float:right;
+    border-radius: 1px;
+    background-color:rgba(52, 54, 180, 0.952);
+    margin-right: -50px;
+    margin-top:-20px;
+    color: white;
+    width: 50px;
+    height: 20px;
+}
+a {
+color: thistle;
+float: right;
+}
+.control{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:rgba(43, 44, 104, 0.952);
+    margin-left: 100px;
+    margin-top: 40px;
+    opacity: 1.3;
+}
+.photo{
+    margin-top: 20px;
+
+}
+.sidebar{
+    float: right;
+    margin-right: 20px;
+    margin-top:-285px;
+    font-family: sans-serif;
+}
+.sidebar h1{
+    font-size:40px ;
+    margin-right: 125px;
+    opacity: 0.9;
+}
+.sidebar h3{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 12px;
+    opacity: 0.7;
+}
+.signin-info{
+    margin-top: 15px;
+    
+}
+.signin-info input{
+    padding: 8px;
+    margin: 5px;
+    
+}
+.signin-info h2{
+    opacity: 0.6;
+    font-size: 18px;
+    margin-top: 10px;
+}
+ .signin-info p{
+     margin-top: 10px;
+     font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+.signin-info button{
+    margin-top: 10px;
+    width: 180px;
+    height: 40px;
+    background-color: rgb(22, 102, 15);
+    border-radius: 1px;
+    
+}
+.footer{
+    height:40px;
+    width:100%;
+    background-color:rgba(52, 54, 180, 0.952) ;
+    margin-top: 235px;
+    
+     
+}
